@@ -76,7 +76,7 @@ namespace WrapperTest
             string testString = "test";
             Wrapper wrapper = new Wrapper(testString);
             int result = wrapper.emptyString();
-            Assert.AreEqual(result, 0);
+            Assert.AreEqual(result, 1);
         }
     }
 }
