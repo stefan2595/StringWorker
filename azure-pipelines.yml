@@ -14,7 +14,7 @@ variables:
   solution: '*.sln'
 
 steps:
-- task: DotNetCoreCLI@1
+- task: DotNetCoreCLI@2
   inputs:
     command: restore
     projects: '**/*.csproj'
@@ -32,8 +32,3 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: DotNetCoreCLI@2
-  inputs:
-    command: test
-    projects: '**/*Tests/*.csproj'
-    arguments: '--configuration $(buildConfiguration)'
