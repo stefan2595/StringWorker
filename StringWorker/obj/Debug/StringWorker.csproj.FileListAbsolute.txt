@@ -1,0 +1,1 @@
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\StringWorker\bin\Debug\StringWorker.exe.config
