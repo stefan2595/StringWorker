@@ -1,1 +1,5 @@
 c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\StringWorker\bin\Debug\StringWorker.exe.config
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\StringWorker\bin\Debug\StringWorker.exe
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\StringWorker\bin\Debug\StringWorker.pdb
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\StringWorker\obj\Debug\StringWorker.exe
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\StringWorker\obj\Debug\StringWorker.pdb

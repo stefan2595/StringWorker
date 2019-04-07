@@ -1,0 +1,8 @@
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\bin\Debug\WrapperTests.dll
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\bin\Debug\WrapperTests.pdb
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\bin\Debug\StringWorker.exe
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\bin\Debug\StringWorker.pdb
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\obj\Debug\WrapperTests.csprojResolveAssemblyReference.cache
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\obj\Debug\WrapperTests.dll
+c:\users\stefa\documents\visual studio 2015\Projects\StringWorker\WrapperTests\obj\Debug\WrapperTests.pdb
