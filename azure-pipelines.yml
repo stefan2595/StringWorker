@@ -13,9 +13,15 @@ variables:
   buildConfiguration: 'Release'
   solution: '*.sln'
 
-
 steps:
-- script: dotnet restore
+- task: DotNetCoreCLI@1
+  inputs:
+    command: restore
+    projects: '**/*.csproj'
+    feedsToUse: config
+    nugetConfigPath: NuGet.config    # Relative to root of the repository
+    externalFeedCredentials: Microsoft.NET.Test.Sdk --version 16.0.1
+
 - task: VSBuild@1
   inputs:
    solution: '$(solution)'
